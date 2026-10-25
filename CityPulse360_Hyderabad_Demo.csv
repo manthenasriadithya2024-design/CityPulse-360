@@ -1,0 +1,1009 @@
+dimension,location,indicator,date,value,unit,source,latitude,longitude,city,state,country
+Mobility,HITEC City,Congestion,2025-01-01,89.57,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Congestion,2025-02-01,90.64,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Travel Time,2025-03-01,29.37,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Travel Time,2025-04-01,20.15,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Travel Time,2025-05-01,26.42,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Travel Time,2025-06-01,37.84,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Congestion,2025-07-01,17.91,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Congestion,2025-08-01,40.74,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Travel Time,2025-09-01,43.07,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Traffic Volume,2025-10-01,840.84,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Congestion,2025-11-01,51.35,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Traffic Volume,2025-12-01,1068.68,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Traffic Volume,2026-01-01,1705.42,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Travel Time,2026-02-01,54.74,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Travel Time,2026-03-01,29.11,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Congestion,2026-04-01,94.16,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Congestion,2026-05-01,87.36,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Traffic Volume,2026-06-01,2379.82,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Travel Time,2026-07-01,13.52,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Travel Time,2026-08-01,49.97,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,HITEC City,Congestion,2026-09-01,57.23,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Mobility,Madhapur,Travel Time,2025-01-01,49.76,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Travel Time,2025-02-01,53.69,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Travel Time,2025-03-01,36.33,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Traffic Volume,2025-04-01,1967.63,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Congestion,2025-05-01,32.42,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Traffic Volume,2025-06-01,2043.76,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Travel Time,2025-07-01,49.29,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Congestion,2025-08-01,24.55,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Travel Time,2025-09-01,34.85,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Travel Time,2025-10-01,10.57,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Traffic Volume,2025-11-01,1013.42,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Travel Time,2025-12-01,12.07,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Travel Time,2026-01-01,52.1,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Congestion,2026-02-01,96.33,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Travel Time,2026-03-01,29.64,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Congestion,2026-04-01,47.3,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Traffic Volume,2026-05-01,819.57,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Traffic Volume,2026-06-01,1127.69,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Congestion,2026-07-01,96.36,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Traffic Volume,2026-08-01,2278.15,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Madhapur,Congestion,2026-09-01,62.28,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Mobility,Gachibowli,Traffic Volume,2025-01-01,2235.3,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Travel Time,2025-02-01,37.4,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Traffic Volume,2025-03-01,2181.83,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Travel Time,2025-04-01,17.58,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Congestion,2025-05-01,45.2,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Congestion,2025-06-01,64.3,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Travel Time,2025-07-01,29.96,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Congestion,2025-08-01,54.88,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Congestion,2025-09-01,62.14,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Travel Time,2025-10-01,17.88,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Travel Time,2025-11-01,45.65,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Congestion,2025-12-01,31.55,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Travel Time,2026-01-01,10.79,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Congestion,2026-02-01,43.29,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Traffic Volume,2026-03-01,671.44,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Traffic Volume,2026-04-01,1338.71,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Congestion,2026-05-01,80.19,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Congestion,2026-06-01,45.81,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Congestion,2026-07-01,59.6,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Congestion,2026-08-01,60.31,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Gachibowli,Travel Time,2026-09-01,20.02,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Congestion,2025-01-01,23.56,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Travel Time,2025-02-01,30.0,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Congestion,2025-03-01,48.56,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Traffic Volume,2025-04-01,1700.31,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Traffic Volume,2025-05-01,1749.08,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Congestion,2025-06-01,91.36,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Travel Time,2025-07-01,12.23,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Congestion,2025-08-01,71.21,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Traffic Volume,2025-09-01,1433.12,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Congestion,2025-10-01,96.97,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Congestion,2025-11-01,10.03,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Traffic Volume,2025-12-01,1028.41,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Travel Time,2026-01-01,24.57,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Travel Time,2026-02-01,52.05,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Congestion,2026-03-01,96.7,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Traffic Volume,2026-04-01,2210.04,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Travel Time,2026-05-01,44.97,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Congestion,2026-06-01,20.28,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Traffic Volume,2026-07-01,965.66,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Traffic Volume,2026-08-01,1809.78,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Banjara Hills,Traffic Volume,2026-09-01,1681.39,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Traffic Volume,2025-01-01,1446.94,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Congestion,2025-02-01,17.07,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Travel Time,2025-03-01,20.04,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Congestion,2025-04-01,75.98,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Travel Time,2025-05-01,27.93,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Congestion,2025-06-01,32.86,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Traffic Volume,2025-07-01,2080.84,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Traffic Volume,2025-08-01,1867.51,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Travel Time,2025-09-01,22.49,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Traffic Volume,2025-10-01,1244.6,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Traffic Volume,2025-11-01,2039.3,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Travel Time,2025-12-01,54.17,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Travel Time,2026-01-01,31.57,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Travel Time,2026-02-01,33.41,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Congestion,2026-03-01,20.27,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Congestion,2026-04-01,53.63,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Congestion,2026-05-01,15.61,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Traffic Volume,2026-06-01,571.29,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Congestion,2026-07-01,46.83,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Traffic Volume,2026-08-01,1348.83,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Jubilee Hills,Travel Time,2026-09-01,39.43,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Mobility,Secunderabad,Congestion,2025-01-01,79.55,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Congestion,2025-02-01,16.56,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Travel Time,2025-03-01,28.92,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Traffic Volume,2025-04-01,2391.16,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Traffic Volume,2025-05-01,588.05,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Traffic Volume,2025-06-01,709.8,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Congestion,2025-07-01,54.31,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Traffic Volume,2025-08-01,1573.25,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Travel Time,2025-09-01,53.16,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Congestion,2025-10-01,53.39,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Congestion,2025-11-01,53.23,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Congestion,2025-12-01,96.04,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Travel Time,2026-01-01,50.52,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Traffic Volume,2026-02-01,2308.13,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Traffic Volume,2026-03-01,2048.01,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Travel Time,2026-04-01,15.14,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Congestion,2026-05-01,83.26,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Traffic Volume,2026-06-01,1355.68,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Traffic Volume,2026-07-01,1865.71,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Congestion,2026-08-01,25.16,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Secunderabad,Traffic Volume,2026-09-01,2289.64,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Mobility,Kukatpally,Congestion,2025-01-01,95.25,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Traffic Volume,2025-02-01,2133.34,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Congestion,2025-03-01,76.87,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Traffic Volume,2025-04-01,1420.35,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Travel Time,2025-05-01,10.66,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Congestion,2025-06-01,44.47,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Congestion,2025-07-01,73.8,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Congestion,2025-08-01,24.85,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Travel Time,2025-09-01,8.11,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Traffic Volume,2025-10-01,2085.47,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Travel Time,2025-11-01,49.51,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Travel Time,2025-12-01,40.58,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Travel Time,2026-01-01,50.16,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Travel Time,2026-02-01,22.2,minutes,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Congestion,2026-03-01,65.62,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Congestion,2026-04-01,75.67,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Traffic Volume,2026-05-01,1825.34,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Traffic Volume,2026-06-01,1625.06,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Traffic Volume,2026-07-01,1553.61,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Traffic Volume,2026-08-01,2032.82,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Kukatpally,Traffic Volume,2026-09-01,765.97,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Mobility,Charminar,Traffic Volume,2025-01-01,1892.6,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Congestion,2025-02-01,69.9,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Congestion,2025-03-01,23.61,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Travel Time,2025-04-01,18.32,minutes,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Congestion,2025-05-01,70.83,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Travel Time,2025-06-01,28.81,minutes,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Congestion,2025-07-01,57.74,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Congestion,2025-08-01,42.12,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Congestion,2025-09-01,69.0,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Traffic Volume,2025-10-01,1597.67,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Congestion,2025-11-01,67.7,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Traffic Volume,2025-12-01,1073.85,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Traffic Volume,2026-01-01,1975.51,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Congestion,2026-02-01,95.95,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Travel Time,2026-03-01,14.62,minutes,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Traffic Volume,2026-04-01,2332.65,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Congestion,2026-05-01,19.89,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Traffic Volume,2026-06-01,2417.36,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Congestion,2026-07-01,75.99,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Traffic Volume,2026-08-01,1900.43,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Mobility,Charminar,Traffic Volume,2026-09-01,790.42,vehicles/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Collected,2025-01-01,10.13,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Segregation,2025-02-01,37.61,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Issues,2025-03-01,21.81,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Segregation,2025-04-01,70.57,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Issues,2025-05-01,40.32,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Collected,2025-06-01,15.54,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Issues,2025-07-01,7.23,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Issues,2025-08-01,8.03,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Collected,2025-09-01,32.81,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Collected,2025-10-01,31.75,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Issues,2025-11-01,48.14,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Collected,2025-12-01,8.3,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Collected,2026-01-01,20.5,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Issues,2026-02-01,9.55,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Segregation,2026-03-01,63.0,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Issues,2026-04-01,45.36,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Issues,2026-05-01,17.75,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Collected,2026-06-01,25.61,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Issues,2026-07-01,31.67,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Collected,2026-08-01,30.7,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,HITEC City,Waste Issues,2026-09-01,44.77,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Issues,2025-01-01,56.67,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Issues,2025-02-01,27.53,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Issues,2025-03-01,6.65,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Segregation,2025-04-01,60.02,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Segregation,2025-05-01,25.53,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Issues,2025-06-01,34.67,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Collected,2025-07-01,15.74,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Segregation,2025-08-01,58.63,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Segregation,2025-09-01,37.42,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Collected,2025-10-01,20.07,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Issues,2025-11-01,38.49,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Collected,2025-12-01,9.46,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Issues,2026-01-01,22.44,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Segregation,2026-02-01,41.59,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Segregation,2026-03-01,73.89,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Segregation,2026-04-01,61.81,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Issues,2026-05-01,57.07,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Issues,2026-06-01,24.94,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Segregation,2026-07-01,62.22,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Segregation,2026-08-01,77.77,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Madhapur,Waste Segregation,2026-09-01,76.67,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Segregation,2025-01-01,30.15,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Segregation,2025-02-01,57.2,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Collected,2025-03-01,18.99,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Segregation,2025-04-01,49.25,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Issues,2025-05-01,21.35,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Issues,2025-06-01,20.11,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Issues,2025-07-01,17.66,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Issues,2025-08-01,57.71,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Collected,2025-09-01,32.91,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Collected,2025-10-01,29.96,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Segregation,2025-11-01,63.0,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Collected,2025-12-01,31.07,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Issues,2026-01-01,30.5,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Collected,2026-02-01,15.28,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Issues,2026-03-01,42.99,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Issues,2026-04-01,4.44,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Segregation,2026-05-01,83.02,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Issues,2026-06-01,58.05,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Segregation,2026-07-01,79.91,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Collected,2026-08-01,31.53,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Gachibowli,Waste Segregation,2026-09-01,56.11,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Collected,2025-01-01,17.56,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Issues,2025-02-01,5.11,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Collected,2025-03-01,15.27,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Segregation,2025-04-01,48.45,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Segregation,2025-05-01,34.78,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Segregation,2025-06-01,47.46,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Collected,2025-07-01,11.35,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Issues,2025-08-01,5.51,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Collected,2025-09-01,39.57,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Issues,2025-10-01,58.46,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Issues,2025-11-01,25.18,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Segregation,2025-12-01,60.15,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Collected,2026-01-01,25.22,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Segregation,2026-02-01,45.73,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Collected,2026-03-01,44.41,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Segregation,2026-04-01,49.79,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Collected,2026-05-01,10.55,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Issues,2026-06-01,2.89,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Segregation,2026-07-01,47.35,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Collected,2026-08-01,30.5,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Banjara Hills,Waste Segregation,2026-09-01,39.08,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Collected,2025-01-01,13.48,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Collected,2025-02-01,29.49,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Segregation,2025-03-01,79.0,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Collected,2025-04-01,8.26,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Segregation,2025-05-01,34.56,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Collected,2025-06-01,25.24,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Segregation,2025-07-01,68.3,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Collected,2025-08-01,25.62,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Collected,2025-09-01,43.09,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Collected,2025-10-01,24.42,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Segregation,2025-11-01,52.22,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Segregation,2025-12-01,50.08,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Issues,2026-01-01,54.57,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Collected,2026-02-01,19.99,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Collected,2026-03-01,32.26,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Issues,2026-04-01,35.46,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Segregation,2026-05-01,76.71,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Issues,2026-06-01,54.91,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Segregation,2026-07-01,45.77,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Collected,2026-08-01,42.11,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Jubilee Hills,Waste Segregation,2026-09-01,81.21,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Segregation,2025-01-01,50.38,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Collected,2025-02-01,6.19,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Collected,2025-03-01,19.63,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Issues,2025-04-01,31.51,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Collected,2025-05-01,16.95,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Issues,2025-06-01,57.21,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Issues,2025-07-01,47.27,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Issues,2025-08-01,10.84,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Collected,2025-09-01,35.98,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Collected,2025-10-01,34.09,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Collected,2025-11-01,7.34,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Segregation,2025-12-01,82.26,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Issues,2026-01-01,31.6,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Collected,2026-02-01,20.7,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Issues,2026-03-01,14.22,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Segregation,2026-04-01,87.39,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Segregation,2026-05-01,61.03,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Segregation,2026-06-01,51.29,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Collected,2026-07-01,37.68,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Issues,2026-08-01,45.56,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Secunderabad,Waste Collected,2026-09-01,6.12,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Issues,2025-01-01,17.51,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Issues,2025-02-01,23.71,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Issues,2025-03-01,41.81,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Segregation,2025-04-01,63.28,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Collected,2025-05-01,19.21,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Issues,2025-06-01,29.88,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Issues,2025-07-01,21.79,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Segregation,2025-08-01,30.62,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Issues,2025-09-01,8.47,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Issues,2025-10-01,31.71,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Segregation,2025-11-01,33.78,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Collected,2025-12-01,25.66,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Issues,2026-01-01,42.31,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Collected,2026-02-01,15.15,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Collected,2026-03-01,38.38,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Segregation,2026-04-01,82.54,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Collected,2026-05-01,18.85,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Issues,2026-06-01,14.14,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Segregation,2026-07-01,49.55,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Issues,2026-08-01,4.72,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Kukatpally,Waste Collected,2026-09-01,13.17,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Segregation,2025-01-01,82.97,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Segregation,2025-02-01,92.34,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Collected,2025-03-01,13.63,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Collected,2025-04-01,23.44,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Segregation,2025-05-01,26.17,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Segregation,2025-06-01,83.75,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Issues,2025-07-01,57.51,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Segregation,2025-08-01,34.08,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Segregation,2025-09-01,75.85,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Segregation,2025-10-01,38.62,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Issues,2025-11-01,22.56,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Collected,2025-12-01,35.76,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Segregation,2026-01-01,31.58,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Segregation,2026-02-01,87.27,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Collected,2026-03-01,19.39,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Issues,2026-04-01,37.6,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Issues,2026-05-01,42.19,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Issues,2026-06-01,20.25,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Segregation,2026-07-01,92.88,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Collected,2026-08-01,30.96,tonnes/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Cleanliness,Charminar,Waste Segregation,2026-09-01,62.52,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,HITEC City,Water Supply,2025-01-01,9.89,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Leakage Reports,2025-02-01,16.12,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Leakage Reports,2025-03-01,21.5,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Water Quality,2025-04-01,64.86,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Water Supply,2025-05-01,22.87,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Leakage Reports,2025-06-01,20.65,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Leakage Reports,2025-07-01,32.23,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Water Supply,2025-08-01,8.93,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Water Quality,2025-09-01,82.71,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Leakage Reports,2025-10-01,7.06,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Water Supply,2025-11-01,18.67,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Water Supply,2025-12-01,23.86,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Water Quality,2026-01-01,45.27,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Leakage Reports,2026-02-01,11.53,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Water Quality,2026-03-01,61.19,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Leakage Reports,2026-04-01,14.18,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Leakage Reports,2026-05-01,29.87,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Water Supply,2026-06-01,3.46,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Water Supply,2026-07-01,12.98,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Water Supply,2026-08-01,10.78,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,HITEC City,Water Supply,2026-09-01,9.8,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Water,Madhapur,Water Supply,2025-01-01,14.21,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Water Supply,2025-02-01,20.58,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Water Quality,2025-03-01,82.53,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Water Supply,2025-04-01,20.68,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Leakage Reports,2025-05-01,1.78,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Leakage Reports,2025-06-01,20.81,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Water Supply,2025-07-01,15.47,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Water Supply,2025-08-01,15.87,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Water Supply,2025-09-01,14.43,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Water Quality,2025-10-01,81.29,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Leakage Reports,2025-11-01,33.75,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Water Supply,2025-12-01,12.29,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Leakage Reports,2026-01-01,13.42,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Leakage Reports,2026-02-01,11.79,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Leakage Reports,2026-03-01,21.47,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Leakage Reports,2026-04-01,8.53,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Water Quality,2026-05-01,44.84,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Leakage Reports,2026-06-01,11.75,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Water Quality,2026-07-01,71.67,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Water Quality,2026-08-01,51.52,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Madhapur,Leakage Reports,2026-09-01,2.56,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Water,Gachibowli,Water Quality,2025-01-01,49.89,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Water Quality,2025-02-01,82.92,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Leakage Reports,2025-03-01,16.48,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Leakage Reports,2025-04-01,11.64,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Leakage Reports,2025-05-01,24.06,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Leakage Reports,2025-06-01,4.51,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Leakage Reports,2025-07-01,25.34,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Leakage Reports,2025-08-01,10.6,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Water Quality,2025-09-01,64.51,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Leakage Reports,2025-10-01,27.11,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Leakage Reports,2025-11-01,14.08,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Leakage Reports,2025-12-01,25.89,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Water Quality,2026-01-01,44.89,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Leakage Reports,2026-02-01,19.42,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Water Quality,2026-03-01,77.54,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Water Quality,2026-04-01,90.37,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Water Quality,2026-05-01,61.19,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Water Quality,2026-06-01,55.03,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Water Quality,2026-07-01,87.88,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Leakage Reports,2026-08-01,12.56,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Gachibowli,Leakage Reports,2026-09-01,15.09,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Water,Banjara Hills,Leakage Reports,2025-01-01,9.41,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Leakage Reports,2025-02-01,8.07,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Leakage Reports,2025-03-01,24.01,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Water Quality,2025-04-01,65.05,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Leakage Reports,2025-05-01,30.11,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Leakage Reports,2025-06-01,33.03,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Leakage Reports,2025-07-01,32.96,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Water Quality,2025-08-01,96.1,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Water Supply,2025-09-01,4.19,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Leakage Reports,2025-10-01,33.56,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Leakage Reports,2025-11-01,11.61,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Leakage Reports,2025-12-01,34.01,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Water Supply,2026-01-01,21.99,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Water Quality,2026-02-01,40.48,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Water Quality,2026-03-01,76.63,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Water Supply,2026-04-01,7.99,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Water Quality,2026-05-01,52.86,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Leakage Reports,2026-06-01,15.73,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Water Supply,2026-07-01,20.14,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Water Quality,2026-08-01,59.52,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Banjara Hills,Leakage Reports,2026-09-01,26.47,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Water,Jubilee Hills,Water Supply,2025-01-01,2.13,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Water Quality,2025-02-01,75.9,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Water Quality,2025-03-01,92.0,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Water Quality,2025-04-01,71.14,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Water Quality,2025-05-01,56.03,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Water Supply,2025-06-01,23.66,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Leakage Reports,2025-07-01,4.84,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Water Supply,2025-08-01,8.44,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Water Quality,2025-09-01,41.03,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Water Quality,2025-10-01,76.47,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Leakage Reports,2025-11-01,15.66,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Leakage Reports,2025-12-01,30.06,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Leakage Reports,2026-01-01,4.68,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Water Supply,2026-02-01,12.19,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Leakage Reports,2026-03-01,26.13,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Leakage Reports,2026-04-01,31.95,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Water Supply,2026-05-01,17.77,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Leakage Reports,2026-06-01,1.3,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Water Quality,2026-07-01,86.22,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Water Supply,2026-08-01,3.05,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Jubilee Hills,Leakage Reports,2026-09-01,15.27,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Water,Secunderabad,Water Supply,2025-01-01,7.49,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Water Quality,2025-02-01,47.15,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Leakage Reports,2025-03-01,2.82,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Water Supply,2025-04-01,22.15,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Water Supply,2025-05-01,9.76,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Water Quality,2025-06-01,69.95,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Leakage Reports,2025-07-01,33.14,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Leakage Reports,2025-08-01,23.68,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Leakage Reports,2025-09-01,24.7,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Water Quality,2025-10-01,73.2,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Water Quality,2025-11-01,50.54,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Leakage Reports,2025-12-01,32.25,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Water Quality,2026-01-01,54.4,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Water Quality,2026-02-01,47.95,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Leakage Reports,2026-03-01,12.37,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Water Supply,2026-04-01,22.9,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Water Supply,2026-05-01,9.16,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Water Supply,2026-06-01,8.56,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Leakage Reports,2026-07-01,22.12,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Water Quality,2026-08-01,82.95,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Secunderabad,Water Quality,2026-09-01,56.7,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Water,Kukatpally,Water Quality,2025-01-01,49.59,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Leakage Reports,2025-02-01,6.54,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Leakage Reports,2025-03-01,21.24,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Water Quality,2025-04-01,51.14,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Water Quality,2025-05-01,56.83,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Water Quality,2025-06-01,80.07,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Leakage Reports,2025-07-01,12.35,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Water Supply,2025-08-01,3.01,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Water Supply,2025-09-01,20.34,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Leakage Reports,2025-10-01,11.22,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Water Supply,2025-11-01,14.23,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Water Quality,2025-12-01,89.98,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Water Supply,2026-01-01,21.37,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Water Quality,2026-02-01,87.77,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Water Quality,2026-03-01,84.23,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Leakage Reports,2026-04-01,4.02,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Leakage Reports,2026-05-01,21.51,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Water Supply,2026-06-01,16.11,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Water Supply,2026-07-01,19.37,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Water Supply,2026-08-01,13.16,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Kukatpally,Water Supply,2026-09-01,10.84,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Water,Charminar,Water Supply,2025-01-01,14.83,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Leakage Reports,2025-02-01,23.94,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Water Quality,2025-03-01,96.25,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Leakage Reports,2025-04-01,33.74,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Leakage Reports,2025-05-01,32.36,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Water Supply,2025-06-01,8.03,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Leakage Reports,2025-07-01,1.86,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Water Supply,2025-08-01,13.83,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Water Quality,2025-09-01,92.3,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Water Quality,2025-10-01,84.45,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Water Quality,2025-11-01,62.76,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Leakage Reports,2025-12-01,1.22,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Leakage Reports,2026-01-01,21.43,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Water Quality,2026-02-01,86.85,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Leakage Reports,2026-03-01,28.02,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Water Supply,2026-04-01,23.49,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Leakage Reports,2026-05-01,8.32,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Water Supply,2026-06-01,5.05,hours/day,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Water Quality,2026-07-01,82.54,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Water Quality,2026-08-01,83.68,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Water,Charminar,Leakage Reports,2026-09-01,5.06,reports/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,HITEC City,Noise Level,2025-01-01,45.86,dB,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Noise Level,2025-02-01,48.49,dB,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Air Quality Index,2025-03-01,194.81,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Noise Level,2025-04-01,54.58,dB,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Air Quality Index,2025-05-01,191.38,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Air Quality Index,2025-06-01,127.01,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Noise Level,2025-07-01,36.87,dB,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Green Cover,2025-08-01,38.72,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Noise Level,2025-09-01,79.06,dB,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Noise Level,2025-10-01,58.46,dB,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Green Cover,2025-11-01,13.44,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Noise Level,2025-12-01,78.35,dB,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Green Cover,2026-01-01,50.06,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Noise Level,2026-02-01,36.97,dB,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Air Quality Index,2026-03-01,109.35,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Air Quality Index,2026-04-01,80.31,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Noise Level,2026-05-01,89.13,dB,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Green Cover,2026-06-01,46.19,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Noise Level,2026-07-01,57.63,dB,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Air Quality Index,2026-08-01,147.16,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,HITEC City,Air Quality Index,2026-09-01,183.53,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Environment,Madhapur,Air Quality Index,2025-01-01,195.85,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Noise Level,2025-02-01,91.59,dB,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Noise Level,2025-03-01,93.16,dB,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Green Cover,2025-04-01,13.83,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Air Quality Index,2025-05-01,149.2,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Air Quality Index,2025-06-01,218.71,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Air Quality Index,2025-07-01,67.44,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Air Quality Index,2025-08-01,63.33,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Air Quality Index,2025-09-01,51.82,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Air Quality Index,2025-10-01,82.07,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Air Quality Index,2025-11-01,116.5,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Green Cover,2025-12-01,19.27,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Green Cover,2026-01-01,7.26,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Noise Level,2026-02-01,77.28,dB,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Air Quality Index,2026-03-01,75.19,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Noise Level,2026-04-01,43.9,dB,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Green Cover,2026-05-01,50.26,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Air Quality Index,2026-06-01,123.15,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Air Quality Index,2026-07-01,245.71,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Air Quality Index,2026-08-01,157.82,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Madhapur,Air Quality Index,2026-09-01,157.6,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Environment,Gachibowli,Noise Level,2025-01-01,36.51,dB,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Air Quality Index,2025-02-01,195.26,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Green Cover,2025-03-01,30.33,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Green Cover,2025-04-01,38.34,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Noise Level,2025-05-01,69.37,dB,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Air Quality Index,2025-06-01,149.01,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Green Cover,2025-07-01,16.23,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Noise Level,2025-08-01,79.83,dB,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Air Quality Index,2025-09-01,75.47,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Green Cover,2025-10-01,54.05,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Green Cover,2025-11-01,51.71,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Noise Level,2025-12-01,48.23,dB,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Noise Level,2026-01-01,73.46,dB,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Noise Level,2026-02-01,79.55,dB,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Noise Level,2026-03-01,76.41,dB,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Noise Level,2026-04-01,62.96,dB,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Noise Level,2026-05-01,43.3,dB,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Green Cover,2026-06-01,34.29,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Green Cover,2026-07-01,27.06,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Air Quality Index,2026-08-01,127.02,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Gachibowli,Noise Level,2026-09-01,82.42,dB,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Environment,Banjara Hills,Green Cover,2025-01-01,16.92,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Noise Level,2025-02-01,89.3,dB,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Green Cover,2025-03-01,48.62,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Noise Level,2025-04-01,44.35,dB,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Noise Level,2025-05-01,77.37,dB,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Noise Level,2025-06-01,44.79,dB,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Air Quality Index,2025-07-01,40.3,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Air Quality Index,2025-08-01,162.85,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Air Quality Index,2025-09-01,100.8,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Air Quality Index,2025-10-01,172.09,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Green Cover,2025-11-01,27.96,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Air Quality Index,2025-12-01,40.48,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Green Cover,2026-01-01,37.87,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Noise Level,2026-02-01,92.75,dB,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Noise Level,2026-03-01,48.46,dB,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Noise Level,2026-04-01,44.76,dB,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Green Cover,2026-05-01,26.03,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Air Quality Index,2026-06-01,139.36,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Air Quality Index,2026-07-01,149.94,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Noise Level,2026-08-01,45.73,dB,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Banjara Hills,Air Quality Index,2026-09-01,191.02,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Noise Level,2025-01-01,40.5,dB,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Green Cover,2025-02-01,7.91,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Noise Level,2025-03-01,48.77,dB,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Green Cover,2025-04-01,51.62,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Noise Level,2025-05-01,85.42,dB,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Green Cover,2025-06-01,17.83,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Noise Level,2025-07-01,92.15,dB,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Green Cover,2025-08-01,49.71,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Air Quality Index,2025-09-01,230.15,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Air Quality Index,2025-10-01,242.59,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Air Quality Index,2025-11-01,104.69,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Noise Level,2025-12-01,91.08,dB,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Noise Level,2026-01-01,41.86,dB,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Noise Level,2026-02-01,48.16,dB,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Noise Level,2026-03-01,48.15,dB,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Noise Level,2026-04-01,86.47,dB,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Air Quality Index,2026-05-01,232.53,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Noise Level,2026-06-01,93.6,dB,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Air Quality Index,2026-07-01,48.93,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Air Quality Index,2026-08-01,213.21,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Jubilee Hills,Noise Level,2026-09-01,65.88,dB,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Environment,Secunderabad,Noise Level,2025-01-01,39.47,dB,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Air Quality Index,2025-02-01,98.75,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Green Cover,2025-03-01,53.72,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Air Quality Index,2025-04-01,233.27,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Noise Level,2025-05-01,66.02,dB,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Green Cover,2025-06-01,15.8,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Green Cover,2025-07-01,10.26,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Green Cover,2025-08-01,11.3,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Noise Level,2025-09-01,41.81,dB,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Green Cover,2025-10-01,27.77,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Air Quality Index,2025-11-01,111.99,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Noise Level,2025-12-01,49.75,dB,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Air Quality Index,2026-01-01,206.09,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Noise Level,2026-02-01,83.57,dB,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Green Cover,2026-03-01,15.56,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Noise Level,2026-04-01,48.74,dB,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Green Cover,2026-05-01,38.2,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Air Quality Index,2026-06-01,78.34,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Noise Level,2026-07-01,45.44,dB,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Noise Level,2026-08-01,90.42,dB,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Secunderabad,Green Cover,2026-09-01,38.92,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Environment,Kukatpally,Green Cover,2025-01-01,42.42,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Noise Level,2025-02-01,46.95,dB,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Green Cover,2025-03-01,21.73,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Green Cover,2025-04-01,54.01,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Green Cover,2025-05-01,5.73,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Green Cover,2025-06-01,15.65,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Noise Level,2025-07-01,50.14,dB,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Air Quality Index,2025-08-01,226.34,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Air Quality Index,2025-09-01,40.21,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Air Quality Index,2025-10-01,87.36,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Air Quality Index,2025-11-01,143.47,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Air Quality Index,2025-12-01,234.2,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Air Quality Index,2026-01-01,145.62,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Air Quality Index,2026-02-01,248.08,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Air Quality Index,2026-03-01,233.9,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Noise Level,2026-04-01,41.16,dB,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Noise Level,2026-05-01,76.67,dB,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Air Quality Index,2026-06-01,241.71,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Green Cover,2026-07-01,12.04,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Noise Level,2026-08-01,71.23,dB,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Kukatpally,Air Quality Index,2026-09-01,215.28,AQI,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Environment,Charminar,Green Cover,2025-01-01,19.61,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Air Quality Index,2025-02-01,224.52,AQI,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Noise Level,2025-03-01,82.59,dB,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Air Quality Index,2025-04-01,53.17,AQI,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Air Quality Index,2025-05-01,60.37,AQI,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Air Quality Index,2025-06-01,77.0,AQI,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Noise Level,2025-07-01,78.95,dB,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Green Cover,2025-08-01,30.19,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Air Quality Index,2025-09-01,238.35,AQI,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Green Cover,2025-10-01,36.89,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Air Quality Index,2025-11-01,223.86,AQI,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Air Quality Index,2025-12-01,132.03,AQI,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Noise Level,2026-01-01,50.59,dB,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Noise Level,2026-02-01,36.02,dB,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Noise Level,2026-03-01,71.11,dB,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Air Quality Index,2026-04-01,204.98,AQI,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Noise Level,2026-05-01,51.54,dB,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Green Cover,2026-06-01,21.14,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Air Quality Index,2026-07-01,207.45,AQI,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Noise Level,2026-08-01,92.55,dB,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Environment,Charminar,Air Quality Index,2026-09-01,64.14,AQI,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Service Requests,2025-01-01,69.8,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Streetlight Availability,2025-02-01,87.26,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Streetlight Availability,2025-03-01,66.49,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Healthcare Access,2025-04-01,54.38,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Healthcare Access,2025-05-01,20.05,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Healthcare Access,2025-06-01,80.2,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Streetlight Availability,2025-07-01,94.8,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Healthcare Access,2025-08-01,88.68,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Healthcare Access,2025-09-01,60.99,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Service Requests,2025-10-01,47.38,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Healthcare Access,2025-11-01,44.55,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Streetlight Availability,2025-12-01,81.09,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Service Requests,2026-01-01,132.52,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Streetlight Availability,2026-02-01,96.69,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Service Requests,2026-03-01,85.09,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Service Requests,2026-04-01,89.0,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Healthcare Access,2026-05-01,92.61,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Healthcare Access,2026-06-01,40.05,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Healthcare Access,2026-07-01,93.39,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Healthcare Access,2026-08-01,32.15,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,HITEC City,Service Requests,2026-09-01,86.03,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Service Requests,2025-01-01,47.09,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Service Requests,2025-02-01,136.23,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Service Requests,2025-03-01,79.26,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Service Requests,2025-04-01,57.37,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Service Requests,2025-05-01,70.59,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Healthcare Access,2025-06-01,37.93,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Healthcare Access,2025-07-01,78.51,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Service Requests,2025-08-01,85.22,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Healthcare Access,2025-09-01,36.77,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Streetlight Availability,2025-10-01,73.8,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Streetlight Availability,2025-11-01,81.01,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Service Requests,2025-12-01,15.81,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Service Requests,2026-01-01,116.77,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Healthcare Access,2026-02-01,72.34,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Healthcare Access,2026-03-01,33.42,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Service Requests,2026-04-01,55.9,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Service Requests,2026-05-01,15.01,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Service Requests,2026-06-01,74.32,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Service Requests,2026-07-01,116.98,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Streetlight Availability,2026-08-01,57.04,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Madhapur,Service Requests,2026-09-01,49.31,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Streetlight Availability,2025-01-01,97.44,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Streetlight Availability,2025-02-01,83.99,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Streetlight Availability,2025-03-01,57.33,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Streetlight Availability,2025-04-01,71.26,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Service Requests,2025-05-01,142.97,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Service Requests,2025-06-01,109.24,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Healthcare Access,2025-07-01,67.99,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Streetlight Availability,2025-08-01,89.77,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Streetlight Availability,2025-09-01,61.36,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Service Requests,2025-10-01,34.62,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Streetlight Availability,2025-11-01,93.01,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Streetlight Availability,2025-12-01,98.2,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Streetlight Availability,2026-01-01,57.34,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Healthcare Access,2026-02-01,52.12,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Healthcare Access,2026-03-01,26.03,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Streetlight Availability,2026-04-01,61.94,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Healthcare Access,2026-05-01,23.19,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Healthcare Access,2026-06-01,34.8,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Healthcare Access,2026-07-01,99.67,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Service Requests,2026-08-01,18.99,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Gachibowli,Service Requests,2026-09-01,41.38,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Service Requests,2025-01-01,142.31,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Streetlight Availability,2025-02-01,84.89,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Streetlight Availability,2025-03-01,91.63,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Healthcare Access,2025-04-01,37.06,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Service Requests,2025-05-01,129.16,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Service Requests,2025-06-01,65.63,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Streetlight Availability,2025-07-01,97.01,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Service Requests,2025-08-01,37.6,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Service Requests,2025-09-01,128.05,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Streetlight Availability,2025-10-01,92.48,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Streetlight Availability,2025-11-01,85.41,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Service Requests,2025-12-01,10.86,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Streetlight Availability,2026-01-01,62.66,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Healthcare Access,2026-02-01,83.6,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Streetlight Availability,2026-03-01,89.36,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Service Requests,2026-04-01,131.49,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Healthcare Access,2026-05-01,53.45,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Streetlight Availability,2026-06-01,86.47,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Streetlight Availability,2026-07-01,90.75,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Healthcare Access,2026-08-01,27.77,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Banjara Hills,Service Requests,2026-09-01,10.65,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Streetlight Availability,2025-01-01,68.88,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Service Requests,2025-02-01,132.53,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Service Requests,2025-03-01,41.67,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Healthcare Access,2025-04-01,74.37,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Streetlight Availability,2025-05-01,95.89,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Healthcare Access,2025-06-01,51.18,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Streetlight Availability,2025-07-01,98.97,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Healthcare Access,2025-08-01,53.22,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Streetlight Availability,2025-09-01,75.65,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Healthcare Access,2025-10-01,77.8,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Service Requests,2025-11-01,145.28,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Healthcare Access,2025-12-01,58.83,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Healthcare Access,2026-01-01,89.69,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Healthcare Access,2026-02-01,76.08,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Service Requests,2026-03-01,62.8,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Healthcare Access,2026-04-01,87.25,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Service Requests,2026-05-01,40.59,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Streetlight Availability,2026-06-01,98.58,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Service Requests,2026-07-01,42.3,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Service Requests,2026-08-01,132.42,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Jubilee Hills,Healthcare Access,2026-09-01,87.63,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Service Requests,2025-01-01,17.24,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Healthcare Access,2025-02-01,72.95,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Healthcare Access,2025-03-01,87.27,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Service Requests,2025-04-01,118.24,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Service Requests,2025-05-01,75.41,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Streetlight Availability,2025-06-01,65.95,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Healthcare Access,2025-07-01,62.69,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Streetlight Availability,2025-08-01,91.49,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Streetlight Availability,2025-09-01,98.87,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Service Requests,2025-10-01,140.7,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Healthcare Access,2025-11-01,70.88,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Healthcare Access,2025-12-01,34.81,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Service Requests,2026-01-01,43.95,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Streetlight Availability,2026-02-01,61.12,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Service Requests,2026-03-01,117.02,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Streetlight Availability,2026-04-01,84.76,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Service Requests,2026-05-01,28.83,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Healthcare Access,2026-06-01,49.53,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Streetlight Availability,2026-07-01,91.51,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Service Requests,2026-08-01,93.45,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Secunderabad,Service Requests,2026-09-01,76.38,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Healthcare Access,2025-01-01,77.26,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Service Requests,2025-02-01,44.13,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Streetlight Availability,2025-03-01,82.47,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Healthcare Access,2025-04-01,45.85,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Streetlight Availability,2025-05-01,77.0,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Streetlight Availability,2025-06-01,96.86,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Healthcare Access,2025-07-01,21.48,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Healthcare Access,2025-08-01,47.87,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Streetlight Availability,2025-09-01,83.14,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Streetlight Availability,2025-10-01,67.87,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Streetlight Availability,2025-11-01,91.45,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Streetlight Availability,2025-12-01,78.28,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Streetlight Availability,2026-01-01,75.99,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Streetlight Availability,2026-02-01,67.33,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Service Requests,2026-03-01,102.75,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Healthcare Access,2026-04-01,27.34,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Service Requests,2026-05-01,68.03,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Streetlight Availability,2026-06-01,64.6,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Streetlight Availability,2026-07-01,96.01,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Service Requests,2026-08-01,32.48,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Kukatpally,Streetlight Availability,2026-09-01,96.88,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Public Facilities,Charminar,Streetlight Availability,2025-01-01,55.0,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Service Requests,2025-02-01,94.48,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Healthcare Access,2025-03-01,72.79,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Streetlight Availability,2025-04-01,88.8,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Service Requests,2025-05-01,28.24,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Service Requests,2025-06-01,121.21,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Healthcare Access,2025-07-01,52.12,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Service Requests,2025-08-01,42.69,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Healthcare Access,2025-09-01,33.16,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Streetlight Availability,2025-10-01,76.78,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Service Requests,2025-11-01,107.72,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Service Requests,2025-12-01,63.08,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Service Requests,2026-01-01,21.48,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Healthcare Access,2026-02-01,60.57,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Service Requests,2026-03-01,12.87,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Streetlight Availability,2026-04-01,98.03,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Service Requests,2026-05-01,119.89,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Service Requests,2026-06-01,49.85,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Streetlight Availability,2026-07-01,94.53,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Healthcare Access,2026-08-01,34.19,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Public Facilities,Charminar,Service Requests,2026-09-01,100.65,requests/month,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,HITEC City,Construction Activity,2025-01-01,69.83,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Construction Activity,2025-02-01,25.31,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Digital Service Access,2025-03-01,72.28,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Digital Service Access,2025-04-01,70.93,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Digital Service Access,2025-05-01,55.38,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Construction Activity,2025-06-01,45.07,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Road Quality,2025-07-01,22.94,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Digital Service Access,2025-08-01,52.65,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Road Quality,2025-09-01,67.51,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Construction Activity,2025-10-01,75.45,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Road Quality,2025-11-01,67.9,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Construction Activity,2025-12-01,30.76,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Road Quality,2026-01-01,70.4,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Construction Activity,2026-02-01,95.58,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Road Quality,2026-03-01,30.07,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Digital Service Access,2026-04-01,70.09,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Digital Service Access,2026-05-01,60.31,percent,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Road Quality,2026-06-01,81.86,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Construction Activity,2026-07-01,37.39,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Construction Activity,2026-08-01,92.07,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,HITEC City,Construction Activity,2026-09-01,12.58,index,Synthetic Hyderabad demo data - replace with verified source,17.4435,78.3772,Hyderabad,Telangana,India
+Development,Madhapur,Digital Service Access,2025-01-01,87.78,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Digital Service Access,2025-02-01,85.55,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Construction Activity,2025-03-01,29.67,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Digital Service Access,2025-04-01,75.37,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Road Quality,2025-05-01,85.61,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Digital Service Access,2025-06-01,39.78,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Construction Activity,2025-07-01,63.71,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Road Quality,2025-08-01,32.42,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Road Quality,2025-09-01,74.77,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Digital Service Access,2025-10-01,46.44,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Road Quality,2025-11-01,72.77,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Road Quality,2025-12-01,55.0,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Construction Activity,2026-01-01,89.3,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Digital Service Access,2026-02-01,43.06,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Road Quality,2026-03-01,68.52,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Road Quality,2026-04-01,32.98,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Construction Activity,2026-05-01,14.19,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Construction Activity,2026-06-01,73.79,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Road Quality,2026-07-01,41.96,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Construction Activity,2026-08-01,99.24,index,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Madhapur,Digital Service Access,2026-09-01,75.2,percent,Synthetic Hyderabad demo data - replace with verified source,17.4483,78.3915,Hyderabad,Telangana,India
+Development,Gachibowli,Road Quality,2025-01-01,74.33,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Digital Service Access,2025-02-01,45.45,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Construction Activity,2025-03-01,31.29,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Construction Activity,2025-04-01,34.66,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Road Quality,2025-05-01,57.86,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Road Quality,2025-06-01,87.86,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Digital Service Access,2025-07-01,71.04,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Digital Service Access,2025-08-01,61.0,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Road Quality,2025-09-01,94.26,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Digital Service Access,2025-10-01,45.59,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Road Quality,2025-11-01,95.97,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Digital Service Access,2025-12-01,42.87,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Construction Activity,2026-01-01,44.83,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Construction Activity,2026-02-01,89.26,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Construction Activity,2026-03-01,51.09,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Road Quality,2026-04-01,78.83,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Road Quality,2026-05-01,71.42,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Road Quality,2026-06-01,62.0,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Road Quality,2026-07-01,98.29,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Digital Service Access,2026-08-01,33.09,percent,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Gachibowli,Construction Activity,2026-09-01,77.38,index,Synthetic Hyderabad demo data - replace with verified source,17.4401,78.3489,Hyderabad,Telangana,India
+Development,Banjara Hills,Construction Activity,2025-01-01,20.32,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Construction Activity,2025-02-01,15.08,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Construction Activity,2025-03-01,15.53,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Digital Service Access,2025-04-01,55.9,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Construction Activity,2025-05-01,47.21,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Digital Service Access,2025-06-01,37.45,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Digital Service Access,2025-07-01,38.48,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Road Quality,2025-08-01,30.24,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Road Quality,2025-09-01,44.78,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Construction Activity,2025-10-01,53.7,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Digital Service Access,2025-11-01,39.52,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Digital Service Access,2025-12-01,75.32,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Construction Activity,2026-01-01,31.71,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Road Quality,2026-02-01,59.78,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Road Quality,2026-03-01,41.89,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Digital Service Access,2026-04-01,60.42,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Road Quality,2026-05-01,64.53,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Construction Activity,2026-06-01,5.69,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Construction Activity,2026-07-01,23.04,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Digital Service Access,2026-08-01,52.42,percent,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Banjara Hills,Construction Activity,2026-09-01,40.53,index,Synthetic Hyderabad demo data - replace with verified source,17.4126,78.4483,Hyderabad,Telangana,India
+Development,Jubilee Hills,Construction Activity,2025-01-01,30.6,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Digital Service Access,2025-02-01,62.22,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Road Quality,2025-03-01,70.95,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Construction Activity,2025-04-01,86.21,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Digital Service Access,2025-05-01,62.38,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Construction Activity,2025-06-01,20.74,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Digital Service Access,2025-07-01,84.88,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Road Quality,2025-08-01,46.41,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Digital Service Access,2025-09-01,44.94,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Road Quality,2025-10-01,91.19,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Construction Activity,2025-11-01,12.92,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Digital Service Access,2025-12-01,65.57,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Digital Service Access,2026-01-01,45.33,percent,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Construction Activity,2026-02-01,26.17,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Construction Activity,2026-03-01,72.72,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Construction Activity,2026-04-01,93.35,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Construction Activity,2026-05-01,5.95,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Road Quality,2026-06-01,75.91,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Construction Activity,2026-07-01,89.18,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Construction Activity,2026-08-01,6.74,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Jubilee Hills,Construction Activity,2026-09-01,29.11,index,Synthetic Hyderabad demo data - replace with verified source,17.4325,78.407,Hyderabad,Telangana,India
+Development,Secunderabad,Road Quality,2025-01-01,32.84,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Digital Service Access,2025-02-01,85.96,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Construction Activity,2025-03-01,63.46,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Construction Activity,2025-04-01,35.45,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Digital Service Access,2025-05-01,32.92,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Digital Service Access,2025-06-01,67.59,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Road Quality,2025-07-01,64.67,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Digital Service Access,2025-08-01,59.83,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Road Quality,2025-09-01,51.25,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Digital Service Access,2025-10-01,85.31,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Digital Service Access,2025-11-01,83.25,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Digital Service Access,2025-12-01,64.27,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Road Quality,2026-01-01,89.65,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Road Quality,2026-02-01,59.61,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Digital Service Access,2026-03-01,67.37,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Road Quality,2026-04-01,84.24,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Construction Activity,2026-05-01,35.16,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Construction Activity,2026-06-01,64.03,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Road Quality,2026-07-01,66.65,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Digital Service Access,2026-08-01,52.33,percent,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Secunderabad,Road Quality,2026-09-01,90.17,index,Synthetic Hyderabad demo data - replace with verified source,17.4399,78.4983,Hyderabad,Telangana,India
+Development,Kukatpally,Digital Service Access,2025-01-01,89.67,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Road Quality,2025-02-01,74.16,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Road Quality,2025-03-01,87.97,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Road Quality,2025-04-01,58.75,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Road Quality,2025-05-01,81.64,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Digital Service Access,2025-06-01,85.84,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Digital Service Access,2025-07-01,76.19,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Construction Activity,2025-08-01,96.8,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Road Quality,2025-09-01,50.23,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Digital Service Access,2025-10-01,74.34,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Road Quality,2025-11-01,84.04,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Road Quality,2025-12-01,65.2,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Digital Service Access,2026-01-01,49.36,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Road Quality,2026-02-01,31.65,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Construction Activity,2026-03-01,72.23,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Digital Service Access,2026-04-01,32.52,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Construction Activity,2026-05-01,93.16,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Road Quality,2026-06-01,52.68,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Construction Activity,2026-07-01,48.72,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Digital Service Access,2026-08-01,68.38,percent,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Kukatpally,Road Quality,2026-09-01,91.94,index,Synthetic Hyderabad demo data - replace with verified source,17.4849,78.4138,Hyderabad,Telangana,India
+Development,Charminar,Construction Activity,2025-01-01,83.72,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Digital Service Access,2025-02-01,70.17,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Digital Service Access,2025-03-01,92.89,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Construction Activity,2025-04-01,34.52,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Construction Activity,2025-05-01,90.98,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Road Quality,2025-06-01,51.91,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Construction Activity,2025-07-01,64.13,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Road Quality,2025-08-01,26.2,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Road Quality,2025-09-01,48.92,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Digital Service Access,2025-10-01,37.61,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Digital Service Access,2025-11-01,40.43,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Construction Activity,2025-12-01,5.95,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Digital Service Access,2026-01-01,90.48,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Digital Service Access,2026-02-01,64.79,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Digital Service Access,2026-03-01,90.27,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Digital Service Access,2026-04-01,65.54,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Road Quality,2026-05-01,33.57,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Digital Service Access,2026-06-01,42.32,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Road Quality,2026-07-01,61.94,index,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Digital Service Access,2026-08-01,74.52,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India
+Development,Charminar,Digital Service Access,2026-09-01,57.72,percent,Synthetic Hyderabad demo data - replace with verified source,17.3616,78.4747,Hyderabad,Telangana,India

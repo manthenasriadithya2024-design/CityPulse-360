@@ -1,0 +1,541 @@
+location,date,dimension,indicator,value,source,latitude,longitude
+"Manhattan, New York",2026-08-01,Mobility,Traffic Volume,8858.56,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Mobility,Travel Time,19.34,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Mobility,Congestion,92.5,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Cleanliness,Waste Collected,353.41,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Cleanliness,Waste Segregation,27.61,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Cleanliness,Waste Issues,5.8,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Water,Water Supply,18.29,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Water,Water Quality,44.72,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Water,Leakage Reports,24.68,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Environment,Air Quality Index,31.81,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Environment,Green Cover,10.35,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Environment,Noise Level,81.4,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Public Facilities,Streetlight Availability,61.91,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Public Facilities,Healthcare Access,63.29,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Public Facilities,Service Requests,49.57,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Development,Road Quality,50.68,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Development,Construction Activity,16.86,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-08-01,Development,Digital Service Access,99.73,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Mobility,Traffic Volume,2710.67,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Mobility,Travel Time,21.5,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Mobility,Congestion,27.92,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Cleanliness,Waste Collected,1782.77,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Cleanliness,Waste Segregation,74.14,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Cleanliness,Waste Issues,26.04,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Water,Water Supply,18.85,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Water,Water Quality,52.07,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Water,Leakage Reports,12.92,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Environment,Air Quality Index,74.35,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Environment,Green Cover,33.03,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Environment,Noise Level,44.34,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Public Facilities,Streetlight Availability,68.07,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Public Facilities,Healthcare Access,47.25,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Public Facilities,Service Requests,19.82,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Development,Road Quality,32.79,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Development,Construction Activity,22.68,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-09-01,Development,Digital Service Access,28.6,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Mobility,Traffic Volume,4883.62,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Mobility,Travel Time,12.33,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Mobility,Congestion,25.94,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Cleanliness,Waste Collected,873.44,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Cleanliness,Waste Segregation,78.33,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Cleanliness,Waste Issues,7.74,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Water,Water Supply,13.91,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Water,Water Quality,92.01,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Water,Leakage Reports,6.61,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Environment,Air Quality Index,36.74,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Environment,Green Cover,27.01,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Environment,Noise Level,81.72,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Public Facilities,Streetlight Availability,71.37,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Public Facilities,Healthcare Access,78.84,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Public Facilities,Service Requests,47.39,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Development,Road Quality,59.66,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Development,Construction Activity,26.45,Synthetic USA demo data,40.7831,-73.9712
+"Manhattan, New York",2026-10-01,Development,Digital Service Access,80.68,Synthetic USA demo data,40.7831,-73.9712
+"Brooklyn, New York",2026-08-01,Mobility,Traffic Volume,5047.04,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Mobility,Travel Time,35.31,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Mobility,Congestion,69.93,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Cleanliness,Waste Collected,459.16,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Cleanliness,Waste Segregation,12.52,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Cleanliness,Waste Issues,16.71,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Water,Water Supply,3.83,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Water,Water Quality,88.93,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Water,Leakage Reports,25.84,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Environment,Air Quality Index,85.47,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Environment,Green Cover,30.35,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Environment,Noise Level,66.27,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Public Facilities,Streetlight Availability,39.04,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Public Facilities,Healthcare Access,60.14,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Public Facilities,Service Requests,56.32,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Development,Road Quality,30.15,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Development,Construction Activity,0.63,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-08-01,Development,Digital Service Access,45.8,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Mobility,Traffic Volume,3107.57,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Mobility,Travel Time,41.64,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Mobility,Congestion,62.26,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Cleanliness,Waste Collected,1790.87,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Cleanliness,Waste Segregation,51.26,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Cleanliness,Waste Issues,32.67,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Water,Water Supply,6.57,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Water,Water Quality,92.61,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Water,Leakage Reports,11.56,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Environment,Air Quality Index,135.83,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Environment,Green Cover,49.86,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Environment,Noise Level,70.0,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Public Facilities,Streetlight Availability,47.89,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Public Facilities,Healthcare Access,83.06,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Public Facilities,Service Requests,37.83,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Development,Road Quality,99.39,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Development,Construction Activity,26.82,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-09-01,Development,Digital Service Access,35.85,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Mobility,Traffic Volume,6545.97,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Mobility,Travel Time,27.05,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Mobility,Congestion,43.02,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Cleanliness,Waste Collected,1762.61,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Cleanliness,Waste Segregation,44.87,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Cleanliness,Waste Issues,9.06,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Water,Water Supply,17.69,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Water,Water Quality,60.79,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Water,Leakage Reports,9.31,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Environment,Air Quality Index,189.66,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Environment,Green Cover,26.88,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Environment,Noise Level,68.39,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Public Facilities,Streetlight Availability,66.77,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Public Facilities,Healthcare Access,27.33,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Public Facilities,Service Requests,23.16,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Development,Road Quality,92.41,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Development,Construction Activity,17.85,Synthetic USA demo data,40.6782,-73.9442
+"Brooklyn, New York",2026-10-01,Development,Digital Service Access,43.71,Synthetic USA demo data,40.6782,-73.9442
+"Queens, New York",2026-08-01,Mobility,Traffic Volume,2808.52,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Mobility,Travel Time,25.42,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Mobility,Congestion,69.02,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Cleanliness,Waste Collected,233.58,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Cleanliness,Waste Segregation,15.45,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Cleanliness,Waste Issues,7.82,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Water,Water Supply,15.8,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Water,Water Quality,64.85,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Water,Leakage Reports,22.74,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Environment,Air Quality Index,42.72,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Environment,Green Cover,39.45,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Environment,Noise Level,39.91,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Public Facilities,Streetlight Availability,57.14,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Public Facilities,Healthcare Access,92.82,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Public Facilities,Service Requests,46.37,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Development,Road Quality,30.34,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Development,Construction Activity,10.06,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-08-01,Development,Digital Service Access,93.46,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Mobility,Traffic Volume,1837.45,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Mobility,Travel Time,12.72,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Mobility,Congestion,76.73,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Cleanliness,Waste Collected,510.44,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Cleanliness,Waste Segregation,32.55,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Cleanliness,Waste Issues,20.38,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Water,Water Supply,16.13,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Water,Water Quality,57.77,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Water,Leakage Reports,24.58,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Environment,Air Quality Index,113.39,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Environment,Green Cover,39.13,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Environment,Noise Level,66.98,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Public Facilities,Streetlight Availability,35.47,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Public Facilities,Healthcare Access,49.23,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Public Facilities,Service Requests,28.26,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Development,Road Quality,85.32,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Development,Construction Activity,29.39,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-09-01,Development,Digital Service Access,78.16,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Mobility,Traffic Volume,5642.93,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Mobility,Travel Time,13.56,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Mobility,Congestion,63.56,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Cleanliness,Waste Collected,1656.51,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Cleanliness,Waste Segregation,73.25,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Cleanliness,Waste Issues,23.56,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Water,Water Supply,3.9,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Water,Water Quality,45.09,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Water,Leakage Reports,13.58,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Environment,Air Quality Index,42.65,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Environment,Green Cover,45.69,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Environment,Noise Level,41.08,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Public Facilities,Streetlight Availability,91.97,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Public Facilities,Healthcare Access,55.14,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Public Facilities,Service Requests,40.18,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Development,Road Quality,63.99,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Development,Construction Activity,20.85,Synthetic USA demo data,40.7282,-73.7949
+"Queens, New York",2026-10-01,Development,Digital Service Access,56.94,Synthetic USA demo data,40.7282,-73.7949
+"Bronx, New York",2026-08-01,Mobility,Traffic Volume,7208.51,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Mobility,Travel Time,36.87,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Mobility,Congestion,87.24,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Cleanliness,Waste Collected,331.46,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Cleanliness,Waste Segregation,39.42,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Cleanliness,Waste Issues,17.02,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Water,Water Supply,6.39,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Water,Water Quality,80.13,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Water,Leakage Reports,10.67,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Environment,Air Quality Index,148.32,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Environment,Green Cover,44.8,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Environment,Noise Level,45.54,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Public Facilities,Streetlight Availability,32.1,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Public Facilities,Healthcare Access,70.09,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Public Facilities,Service Requests,39.44,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Development,Road Quality,46.38,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Development,Construction Activity,1.06,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-08-01,Development,Digital Service Access,65.13,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Mobility,Traffic Volume,4726.84,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Mobility,Travel Time,18.03,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Mobility,Congestion,98.0,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Cleanliness,Waste Collected,1225.51,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Cleanliness,Waste Segregation,25.97,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Cleanliness,Waste Issues,38.31,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Water,Water Supply,14.12,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Water,Water Quality,41.89,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Water,Leakage Reports,12.11,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Environment,Air Quality Index,113.03,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Environment,Green Cover,32.32,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Environment,Noise Level,76.07,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Public Facilities,Streetlight Availability,97.5,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Public Facilities,Healthcare Access,22.07,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Public Facilities,Service Requests,15.06,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Development,Road Quality,95.98,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Development,Construction Activity,26.17,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-09-01,Development,Digital Service Access,69.59,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Mobility,Traffic Volume,6895.43,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Mobility,Travel Time,21.05,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Mobility,Congestion,56.55,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Cleanliness,Waste Collected,726.74,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Cleanliness,Waste Segregation,33.52,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Cleanliness,Waste Issues,15.64,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Water,Water Supply,9.06,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Water,Water Quality,57.73,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Water,Leakage Reports,21.36,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Environment,Air Quality Index,69.75,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Environment,Green Cover,37.24,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Environment,Noise Level,84.97,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Public Facilities,Streetlight Availability,35.19,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Public Facilities,Healthcare Access,65.29,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Public Facilities,Service Requests,56.86,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Development,Road Quality,70.72,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Development,Construction Activity,28.87,Synthetic USA demo data,40.8448,-73.8648
+"Bronx, New York",2026-10-01,Development,Digital Service Access,61.16,Synthetic USA demo data,40.8448,-73.8648
+"Staten Island, New York",2026-08-01,Mobility,Traffic Volume,2960.7,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Mobility,Travel Time,22.3,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Mobility,Congestion,76.04,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Cleanliness,Waste Collected,683.41,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Cleanliness,Waste Segregation,53.43,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Cleanliness,Waste Issues,25.85,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Water,Water Supply,9.9,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Water,Water Quality,54.95,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Water,Leakage Reports,21.33,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Environment,Air Quality Index,162.65,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Environment,Green Cover,10.68,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Environment,Noise Level,92.84,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Public Facilities,Streetlight Availability,52.43,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Public Facilities,Healthcare Access,96.39,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Public Facilities,Service Requests,25.42,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Development,Road Quality,83.39,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Development,Construction Activity,16.13,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-08-01,Development,Digital Service Access,90.6,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Mobility,Traffic Volume,2083.98,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Mobility,Travel Time,42.74,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Mobility,Congestion,43.8,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Cleanliness,Waste Collected,847.12,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Cleanliness,Waste Segregation,55.6,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Cleanliness,Waste Issues,1.29,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Water,Water Supply,18.72,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Water,Water Quality,75.72,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Water,Leakage Reports,15.15,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Environment,Air Quality Index,74.56,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Environment,Green Cover,7.43,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Environment,Noise Level,67.24,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Public Facilities,Streetlight Availability,51.71,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Public Facilities,Healthcare Access,62.88,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Public Facilities,Service Requests,49.2,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Development,Road Quality,70.23,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Development,Construction Activity,26.98,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-09-01,Development,Digital Service Access,77.28,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Mobility,Traffic Volume,3878.4,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Mobility,Travel Time,22.46,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Mobility,Congestion,12.09,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Cleanliness,Waste Collected,1153.37,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Cleanliness,Waste Segregation,46.89,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Cleanliness,Waste Issues,4.15,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Water,Water Supply,10.2,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Water,Water Quality,94.21,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Water,Leakage Reports,4.61,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Environment,Air Quality Index,166.27,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Environment,Green Cover,5.61,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Environment,Noise Level,82.31,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Public Facilities,Streetlight Availability,37.19,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Public Facilities,Healthcare Access,44.31,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Public Facilities,Service Requests,28.79,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Development,Road Quality,61.42,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Development,Construction Activity,30.16,Synthetic USA demo data,40.5795,-74.1502
+"Staten Island, New York",2026-10-01,Development,Digital Service Access,31.3,Synthetic USA demo data,40.5795,-74.1502
+"Jersey City, New Jersey",2026-08-01,Mobility,Traffic Volume,6833.97,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Mobility,Travel Time,38.55,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Mobility,Congestion,49.27,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Cleanliness,Waste Collected,769.39,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Cleanliness,Waste Segregation,84.45,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Cleanliness,Waste Issues,32.05,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Water,Water Supply,4.32,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Water,Water Quality,84.11,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Water,Leakage Reports,17.92,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Environment,Air Quality Index,180.83,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Environment,Green Cover,12.25,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Environment,Noise Level,74.47,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Public Facilities,Streetlight Availability,69.88,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Public Facilities,Healthcare Access,86.25,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Public Facilities,Service Requests,14.3,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Development,Road Quality,88.47,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Development,Construction Activity,13.14,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-08-01,Development,Digital Service Access,89.9,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Mobility,Traffic Volume,3969.64,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Mobility,Travel Time,39.92,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Mobility,Congestion,36.4,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Cleanliness,Waste Collected,821.39,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Cleanliness,Waste Segregation,58.7,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Cleanliness,Waste Issues,31.37,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Water,Water Supply,9.08,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Water,Water Quality,74.07,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Water,Leakage Reports,17.47,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Environment,Air Quality Index,102.96,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Environment,Green Cover,39.58,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Environment,Noise Level,49.87,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Public Facilities,Streetlight Availability,41.76,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Public Facilities,Healthcare Access,67.02,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Public Facilities,Service Requests,59.99,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Development,Road Quality,60.04,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Development,Construction Activity,8.15,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-09-01,Development,Digital Service Access,65.76,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Mobility,Traffic Volume,1846.07,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Mobility,Travel Time,35.48,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Mobility,Congestion,62.04,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Cleanliness,Waste Collected,859.11,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Cleanliness,Waste Segregation,62.24,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Cleanliness,Waste Issues,18.87,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Water,Water Supply,7.89,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Water,Water Quality,78.07,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Water,Leakage Reports,3.11,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Environment,Air Quality Index,151.49,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Environment,Green Cover,7.06,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Environment,Noise Level,90.18,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Public Facilities,Streetlight Availability,91.59,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Public Facilities,Healthcare Access,28.61,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Public Facilities,Service Requests,36.01,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Development,Road Quality,87.95,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Development,Construction Activity,34.78,Synthetic USA demo data,40.7178,-74.0431
+"Jersey City, New Jersey",2026-10-01,Development,Digital Service Access,94.49,Synthetic USA demo data,40.7178,-74.0431
+"Hoboken, New Jersey",2026-08-01,Mobility,Traffic Volume,3422.81,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Mobility,Travel Time,11.17,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Mobility,Congestion,10.33,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Cleanliness,Waste Collected,1905.68,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Cleanliness,Waste Segregation,15.42,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Cleanliness,Waste Issues,26.6,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Water,Water Supply,9.44,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Water,Water Quality,97.03,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Water,Leakage Reports,16.21,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Environment,Air Quality Index,85.4,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Environment,Green Cover,29.54,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Environment,Noise Level,59.48,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Public Facilities,Streetlight Availability,64.72,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Public Facilities,Healthcare Access,20.74,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Public Facilities,Service Requests,9.25,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Development,Road Quality,83.83,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Development,Construction Activity,22.88,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-08-01,Development,Digital Service Access,44.69,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Mobility,Traffic Volume,5133.48,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Mobility,Travel Time,31.48,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Mobility,Congestion,89.05,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Cleanliness,Waste Collected,1039.55,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Cleanliness,Waste Segregation,61.27,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Cleanliness,Waste Issues,17.41,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Water,Water Supply,18.96,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Water,Water Quality,71.67,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Water,Leakage Reports,26.61,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Environment,Air Quality Index,150.28,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Environment,Green Cover,22.76,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Environment,Noise Level,48.13,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Public Facilities,Streetlight Availability,48.51,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Public Facilities,Healthcare Access,70.31,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Public Facilities,Service Requests,21.94,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Development,Road Quality,46.28,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Development,Construction Activity,16.36,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-09-01,Development,Digital Service Access,84.28,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Mobility,Traffic Volume,7816.47,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Mobility,Travel Time,11.87,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Mobility,Congestion,51.52,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Cleanliness,Waste Collected,1483.62,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Cleanliness,Waste Segregation,28.94,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Cleanliness,Waste Issues,2.0,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Water,Water Supply,14.26,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Water,Water Quality,56.82,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Water,Leakage Reports,10.79,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Environment,Air Quality Index,80.02,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Environment,Green Cover,26.34,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Environment,Noise Level,39.81,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Public Facilities,Streetlight Availability,92.1,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Public Facilities,Healthcare Access,56.45,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Public Facilities,Service Requests,24.08,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Development,Road Quality,79.31,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Development,Construction Activity,12.78,Synthetic USA demo data,40.743,-74.0324
+"Hoboken, New Jersey",2026-10-01,Development,Digital Service Access,53.78,Synthetic USA demo data,40.743,-74.0324
+"Newark, New Jersey",2026-08-01,Mobility,Traffic Volume,7076.84,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Mobility,Travel Time,42.64,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Mobility,Congestion,18.22,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Cleanliness,Waste Collected,1008.16,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Cleanliness,Waste Segregation,38.58,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Cleanliness,Waste Issues,13.46,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Water,Water Supply,14.39,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Water,Water Quality,89.44,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Water,Leakage Reports,6.25,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Environment,Air Quality Index,66.67,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Environment,Green Cover,13.94,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Environment,Noise Level,47.14,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Public Facilities,Streetlight Availability,63.7,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Public Facilities,Healthcare Access,92.71,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Public Facilities,Service Requests,14.46,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Development,Road Quality,40.71,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Development,Construction Activity,8.96,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-08-01,Development,Digital Service Access,68.52,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Mobility,Traffic Volume,3481.99,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Mobility,Travel Time,17.51,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Mobility,Congestion,55.88,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Cleanliness,Waste Collected,1839.41,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Cleanliness,Waste Segregation,20.35,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Cleanliness,Waste Issues,38.45,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Water,Water Supply,2.89,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Water,Water Quality,89.59,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Water,Leakage Reports,0.32,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Environment,Air Quality Index,84.2,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Environment,Green Cover,21.77,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Environment,Noise Level,90.65,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Public Facilities,Streetlight Availability,97.32,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Public Facilities,Healthcare Access,76.56,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Public Facilities,Service Requests,27.94,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Development,Road Quality,98.65,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Development,Construction Activity,0.65,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-09-01,Development,Digital Service Access,90.13,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Mobility,Traffic Volume,5067.73,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Mobility,Travel Time,28.28,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Mobility,Congestion,99.18,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Cleanliness,Waste Collected,1991.69,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Cleanliness,Waste Segregation,91.32,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Cleanliness,Waste Issues,7.71,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Water,Water Supply,17.54,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Water,Water Quality,64.3,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Water,Leakage Reports,27.97,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Environment,Air Quality Index,44.24,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Environment,Green Cover,10.61,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Environment,Noise Level,57.14,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Public Facilities,Streetlight Availability,94.41,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Public Facilities,Healthcare Access,21.79,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Public Facilities,Service Requests,52.38,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Development,Road Quality,83.58,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Development,Construction Activity,1.98,Synthetic USA demo data,40.7357,-74.1724
+"Newark, New Jersey",2026-10-01,Development,Digital Service Access,97.19,Synthetic USA demo data,40.7357,-74.1724
+"Yonkers, New York",2026-08-01,Mobility,Traffic Volume,5031.98,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Mobility,Travel Time,41.59,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Mobility,Congestion,55.8,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Cleanliness,Waste Collected,1985.11,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Cleanliness,Waste Segregation,94.67,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Cleanliness,Waste Issues,36.17,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Water,Water Supply,17.54,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Water,Water Quality,50.45,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Water,Leakage Reports,25.96,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Environment,Air Quality Index,37.53,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Environment,Green Cover,20.17,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Environment,Noise Level,52.78,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Public Facilities,Streetlight Availability,68.49,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Public Facilities,Healthcare Access,34.23,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Public Facilities,Service Requests,41.11,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Development,Road Quality,24.08,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Development,Construction Activity,3.25,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-08-01,Development,Digital Service Access,98.44,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Mobility,Traffic Volume,2858.5,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Mobility,Travel Time,17.2,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Mobility,Congestion,45.3,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Cleanliness,Waste Collected,1486.51,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Cleanliness,Waste Segregation,23.32,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Cleanliness,Waste Issues,28.92,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Water,Water Supply,16.69,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Water,Water Quality,77.05,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Water,Leakage Reports,25.32,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Environment,Air Quality Index,196.6,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Environment,Green Cover,35.15,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Environment,Noise Level,49.25,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Public Facilities,Streetlight Availability,88.72,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Public Facilities,Healthcare Access,96.4,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Public Facilities,Service Requests,38.95,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Development,Road Quality,81.21,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Development,Construction Activity,24.92,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-09-01,Development,Digital Service Access,60.49,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Mobility,Traffic Volume,5101.49,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Mobility,Travel Time,44.55,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Mobility,Congestion,87.44,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Cleanliness,Waste Collected,486.19,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Cleanliness,Waste Segregation,82.02,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Cleanliness,Waste Issues,34.76,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Water,Water Supply,10.42,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Water,Water Quality,79.85,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Water,Leakage Reports,15.86,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Environment,Air Quality Index,189.75,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Environment,Green Cover,26.49,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Environment,Noise Level,40.99,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Public Facilities,Streetlight Availability,55.5,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Public Facilities,Healthcare Access,75.4,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Public Facilities,Service Requests,17.1,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Development,Road Quality,42.59,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Development,Construction Activity,5.82,Synthetic USA demo data,40.9312,-73.8987
+"Yonkers, New York",2026-10-01,Development,Digital Service Access,45.3,Synthetic USA demo data,40.9312,-73.8987
+"Stamford, Connecticut",2026-08-01,Mobility,Traffic Volume,9159.65,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Mobility,Travel Time,37.14,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Mobility,Congestion,91.91,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Cleanliness,Waste Collected,1283.2,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Cleanliness,Waste Segregation,85.42,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Cleanliness,Waste Issues,18.59,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Water,Water Supply,9.12,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Water,Water Quality,68.83,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Water,Leakage Reports,17.96,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Environment,Air Quality Index,43.68,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Environment,Green Cover,21.96,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Environment,Noise Level,68.06,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Public Facilities,Streetlight Availability,48.14,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Public Facilities,Healthcare Access,27.99,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Public Facilities,Service Requests,6.79,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Development,Road Quality,82.82,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Development,Construction Activity,18.94,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-08-01,Development,Digital Service Access,76.29,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Mobility,Traffic Volume,2892.07,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Mobility,Travel Time,42.36,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Mobility,Congestion,26.18,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Cleanliness,Waste Collected,1629.02,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Cleanliness,Waste Segregation,90.35,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Cleanliness,Waste Issues,9.08,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Water,Water Supply,13.04,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Water,Water Quality,99.11,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Water,Leakage Reports,29.63,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Environment,Air Quality Index,62.3,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Environment,Green Cover,47.29,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Environment,Noise Level,88.11,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Public Facilities,Streetlight Availability,30.07,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Public Facilities,Healthcare Access,90.99,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Public Facilities,Service Requests,28.2,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Development,Road Quality,42.37,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Development,Construction Activity,32.38,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-09-01,Development,Digital Service Access,20.9,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Mobility,Traffic Volume,6529.88,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Mobility,Travel Time,37.52,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Mobility,Congestion,53.25,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Cleanliness,Waste Collected,1339.01,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Cleanliness,Waste Segregation,11.72,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Cleanliness,Waste Issues,8.37,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Water,Water Supply,19.35,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Water,Water Quality,73.32,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Water,Leakage Reports,26.18,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Environment,Air Quality Index,93.37,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Environment,Green Cover,49.88,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Environment,Noise Level,65.36,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Public Facilities,Streetlight Availability,65.17,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Public Facilities,Healthcare Access,62.51,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Public Facilities,Service Requests,31.61,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Development,Road Quality,39.11,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Development,Construction Activity,16.35,Synthetic USA demo data,41.0534,-73.5387
+"Stamford, Connecticut",2026-10-01,Development,Digital Service Access,42.92,Synthetic USA demo data,41.0534,-73.5387
